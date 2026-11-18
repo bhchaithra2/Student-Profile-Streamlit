@@ -3,8 +3,6 @@ st.set_page_config(page_title = "Student Profile Portal",page_icon = "🎓",layo
 st.title("Student Profile Portal")
 st.caption("Developed by Chaithra B H")
 
-st.info("Fill in your details and click View My Profile.")
-
 name = st.text_input(
     "Student Name",
     placeholder="Enter your name"
