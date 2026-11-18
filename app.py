@@ -33,4 +33,4 @@ if st.button("View My Profile"):
         st.write("Department:", department)
         st.write("Year:", year)
     else:
-        st.warning("Please fill in all details."
+        st.warning("Please fill in all details.")
